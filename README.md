@@ -3,7 +3,7 @@
 
 # 💫 About Me :
 - 🔭 I’m Software Engineer.
-- 🔭 I’m currently working on Flutter Apps.
+- 🔭 I’m currently builing Flutter Apps for Multiple Platforms.
 - 🔭 I’m can work on Any TechStack(Mobile, Web, Cloud & DevOps).
 - 🌱 I’m currently learning more about Blockchian.
 - 👯 I’m looking to collaborate on Content Curation.
