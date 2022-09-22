@@ -3,7 +3,8 @@
 
 # 💫 About Me :
 - 🔭 I’m Software Engineer.
-- 🔭 I’m currently working on Any TechStack(Mobile, Web, Cloud & DevOps).
+- 🔭 I’m currently working on Flutter Apps.
+- 🔭 I’m can work on Any TechStack(Mobile, Web, Cloud & DevOps).
 - 🌱 I’m currently learning more about Blockchian.
 - 👯 I’m looking to collaborate on Content Curation.
 - 🤔 I’m looking for help with Open Source.
